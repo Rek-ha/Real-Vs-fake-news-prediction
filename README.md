@@ -1,4 +1,4 @@
-**objective:**
+**Objective:**
 
 To develop a machine learning-based system capable of distinguishing between real and fake news articles with high accuracy. This system aims to enhance information reliability by leveraging advanced algorithms to analyze and classify news content.
 
